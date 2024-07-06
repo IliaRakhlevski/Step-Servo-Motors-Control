@@ -6,7 +6,7 @@ Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel &
 **Course project in the course ARM:** Control servo/step motors using ARM9 microcontroller<br/>
 **Programming Language:** C<br/>
 **Development Environment:**
-* **Hardware:*<br/>
+* **Hardware:**<br/>
   FriendlyARM Mini 2440 is a single board computer based on a Samsung S3C2440 ARM9 microprocessor.<br/>
   Servo motor: SG90 Tower Pro Micro Servo.<br/>
   Step motor: 28BYJ-48.<br/>
@@ -20,6 +20,7 @@ Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel &
   Minicom - Serial RS232 manager.<br/>
   Usbpush – program for loading executive file to the board.<br/>
 <br/>
+**Project Completion Date:** 2017<br/>
 ![alt text](https://github.com/IliaRakhlevski/Step-Servo-Motors-Control/blob/main/Final%20Project.jpg?raw=true)
 <br/>
 <br/>
