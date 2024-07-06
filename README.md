@@ -6,14 +6,14 @@ Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel &
 **Course project in the course ARM:** Control servo/step motors using ARM9 microcontroller<br/>
 **Programming Language:** C<br/>
 **Development Environment:**
-* Hardware:<br/>
+* **Hardware:*<br/>
   FriendlyARM Mini 2440 is a single board computer based on a Samsung S3C2440 ARM9 microprocessor.<br/>
   Servo motor: SG90 Tower Pro Micro Servo.<br/>
   Step motor: 28BYJ-48.<br/>
   830-hole breadboard.<br/>
   Dupont/jumper wires.<br/>
   USB-RS232 cable.<br/>
-* Software:<br/>
+* **Software:**<br/>
   Linux Ubuntu ver. 16 – OS running on developing computer.<br/>
   Cross compiler: arm-elf-gcc 4.1.1.<br/>
   Jeany – code editor.<br/>
