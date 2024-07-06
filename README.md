@@ -19,8 +19,8 @@ Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel &
   Jeany – code editor.<br/>
   Minicom - Serial RS232 manager.<br/>
   Usbpush – program for loading executive file to the board.<br/>
-<br/>
 **Project Completion Date:** 2017<br/>
+
 ![alt text](https://github.com/IliaRakhlevski/Step-Servo-Motors-Control/blob/main/Final%20Project.jpg?raw=true)
 <br/>
 <br/>
