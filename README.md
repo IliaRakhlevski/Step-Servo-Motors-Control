@@ -4,8 +4,8 @@
 Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel & device drivers, Embedded Bare Board/Embedded Linux Programming using evaluation boards.
 
 **Course project in the course ARM:** Control servo/step motors using ARM9 microcontroller<br/>
-**Programming Language:** C.<br/>
-**Development Environment:**<br/>
+**Programming Language:** C<br/>
+**Development Environment:**
 * Hardware:<br/>
   FriendlyARM Mini 2440 is a single board computer based on a Samsung S3C2440 ARM9 microprocessor.<br/>
   Servo motor: SG90 Tower Pro Micro Servo.<br/>
