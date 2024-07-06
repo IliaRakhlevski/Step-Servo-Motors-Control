@@ -4,3 +4,5 @@
 
 
 **Final project in course ARM:** Control servo/step motors using ARM9 microcontroller
+
+![alt text](https://github.com/IliaRakhlevski/Step-Servo-Motors-Control/blob/main/Final%20Project.jpg?raw=true)
