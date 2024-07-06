@@ -9,4 +9,5 @@ Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel &
 <br/>
 <br/>
 
+See the videos *"Servo-motor.mp4"* and *"Step-motor.mp4"* for example.<br/>
 See *"Final project in course ARM.pdf"* for the details.<br/>
