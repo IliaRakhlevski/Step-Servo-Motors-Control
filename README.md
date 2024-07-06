@@ -4,6 +4,7 @@
 Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel & device drivers, Embedded Bare Board/Embedded Linux Programming using evaluation boards.
 
 **Course project in the course ARM:** Control servo/step motors using ARM9 microcontroller<br/>
+**Project Completion Date:** 2017<br/>
 **Programming Language:** C<br/>
 **Development Environment:**
 * **Hardware:**<br/>
@@ -19,7 +20,6 @@ Python, Networking, ARM Architecture Programming, Embedded Linux, Linux Kernel &
   Jeany – code editor.<br/>
   Minicom - Serial RS232 manager.<br/>
   Usbpush – program for loading executive file to the board.<br/>
-**Project Completion Date:** 2017<br/>
 
 ![alt text](https://github.com/IliaRakhlevski/Step-Servo-Motors-Control/blob/main/Final%20Project.jpg?raw=true)
 <br/>
