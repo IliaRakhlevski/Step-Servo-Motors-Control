@@ -1,5 +1,5 @@
 # Step and Servo Motors Control
-## [Real Time College](https://rt-ed.co.il/) - a multi-disciplinary Real-Time O.S. and Embedded Software Solutions Center, providing consulting, development, integration, training and support solutions.<br/>
+## [Real Time Group](https://rt-ed.co.il/) - a multi-disciplinary Real-Time O.S. and Embedded Software Solutions Center, providing consulting, development, integration, training and support solutions.<br/>
 
 **Project:** Bare-metal ARM9 firmware for register-level control of stepper and servo motors<br/>
 **Programming Language:** C<br/>
