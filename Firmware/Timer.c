@@ -221,7 +221,7 @@ void Phase_4() // yellow, pink
 {
 	ClearGPDat();
 	*GPFDAT = 0x1 << 3;
-	*GPFDAT = 0x1 << 5;
+	*GPFDAT |= 0x1 << 5;
 }
 
 void Phase_5() //  pink
@@ -234,7 +234,7 @@ void Phase_6() //  pink, blue
 {
 	ClearGPDat();
 	*GPFDAT = 0x1 << 5;
-	*GPFDAT = 0x1 << 6;
+	*GPFDAT |= 0x1 << 6;
 }
 
 void Phase_7() //  blue
@@ -247,7 +247,7 @@ void Phase_8() //  orange, blue
 {
 	ClearGPDat();
 	*GPFDAT = 0x1 << 1;
-	*GPFDAT = 0x1 << 6;
+	*GPFDAT |= 0x1 << 6;
 }
 
 // execute next step of step motor rotation
@@ -295,7 +295,7 @@ void StopStepMotor()
 {	
 	*GPFCON = 0x0;
 	*GPFUP  = 0x0;
-	*GPGDAT = 0x0;
+	*GPFDAT = 0x0;
 	Util_Printf("   Stop step motor\n");
 }
 
