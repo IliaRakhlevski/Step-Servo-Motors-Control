@@ -21,7 +21,7 @@ Project report: [Step-and-Servo-Motors-Control.pdf](Step-and-Servo-Motors-Contro
   </tr>
   <tr>
     <td align="center"><img src="images/servo-joystick.gif" alt="Servo motor controlled by the joystick" width="240"/></td>
-    <td align="center"><img src="images/hardware-setup.jpg" alt="Hardware setup" width="560"/></td>
+    <td align="center"><img src="images/hardware-setup.jpg" alt="Hardware setup" width="320"/></td>
   </tr>
 </table>
 
