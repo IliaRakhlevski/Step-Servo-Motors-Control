@@ -1,6 +1,6 @@
 # Step and Servo Motors Control
 
-*Course project · ARM · [Real Time Group](https://rt-ed.co.il/) (now Real Time College) · 2017*
+*Course project · ARM · [Real Time College](https://rt-ed.co.il/) · 2017*
 
 Bare-metal firmware in C for an ARM9 board (Samsung S3C2440) that controls a stepper motor and a servo motor
 **through the peripheral registers directly — no HAL, no vendor library, no operating system.**
