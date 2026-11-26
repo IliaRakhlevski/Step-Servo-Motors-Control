@@ -1,0 +1,7 @@
+# Build outputs (Nand_Minimal.o is a prebuilt course object and is kept)
+*.o
+!Nand_Minimal.o
+*.a
+*.elf
+*.bin
+*.map
