@@ -1,0 +1,3 @@
+# GitHub language statistics: the headers are C, the .inc files are ARM assembly
+*.h linguist-language=C
+*.inc linguist-language=Assembly

@@ -14,9 +14,16 @@ Bare-metal firmware in C for an ARM9 board (Samsung S3C2440) that controls a ste
 **Toolchain:** arm-elf-gcc 4.1.1, make. **Console:** RS-232 (Minicom).<br/>
 Project report: [Step-and-Servo-Motors-Control.pdf](Step-and-Servo-Motors-Control.pdf).
 
-| Servo motor controlled by the joystick | Hardware setup |
-|:---:|:---:|
-| ![Servo motor controlled by the joystick](images/servo-joystick.gif) | ![Hardware setup](images/hardware-setup.jpg) |
+<table>
+  <tr>
+    <th>Servo motor controlled by the joystick</th>
+    <th>Hardware setup</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/servo-joystick.gif" alt="Servo motor controlled by the joystick" width="240"/></td>
+    <td align="center"><img src="images/hardware-setup.jpg" alt="Hardware setup" width="320"/></td>
+  </tr>
+</table>
 
 Full videos: [Servo-motor.mp4](Servo-motor.mp4) (first version, joystick) and
 [Step-motor.mp4](Step-motor.mp4) (final version). In the stepper video an Arduino Mega board is used
